@@ -3,7 +3,7 @@ plain='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 totalPositions=len(plain)
 
 
-#create encription function to accept message and print coded message
+#create encryption function to accept message and print coded message
 def encryptMessage():
     encrypted=''
     #ask the user for a message
